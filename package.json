@@ -1,0 +1,47 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "Youtube Clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "jest"
+  },
+  "author": "Rafi",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.11",
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "console-browserify": "^1.2.0",
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.28",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.3",
+    "util": "^0.12.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@iconscout/react-unicons": "^1.1.6",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.1.3",
+    "html-react-parser": "^3.0.4",
+    "js-abbreviation-number": "^1.4.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
+    "react-lazy-load": "^4.0.1",
+    "react-moment": "^1.1.2",
+    "react-player": "^2.11.0",
+    "react-router-dom": "^6.4.3",
+    "react-scripts": "5.0.1",
+    "react-tooltip": "^4.5.0",
+    "web-vitals": "^2.1.4"
+  }
+}
